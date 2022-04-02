@@ -22,5 +22,4 @@ C#과 유니티를 배우고 처음 진행했던 프로젝트의 담당파트 �
 </br>StoryBoard에 의한 연결을 통해 사용하거나 필요한 클래스에서 Manager의 Instance를 직접 호출하여 사용합니다.
 </br></br>사용예시)
 </br>
-![audioboard01](https://user-images.githubusercontent.com/94150816/161372690-8c3a4479-bba0-4af4-b25d-73cb7db2e3af.png)
-<img src="https://user-images.githubusercontent.com/94150816/161372690-8c3a4479-bba0-4af4-b25d-73cb7db2e3af.png" width="500">
+<img src="https://user-images.githubusercontent.com/94150816/161372690-8c3a4479-bba0-4af4-b25d-73cb7db2e3af.png" width="600">
