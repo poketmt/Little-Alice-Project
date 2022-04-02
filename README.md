@@ -30,3 +30,11 @@ C#과 유니티를 배우고 처음 진행했던 프로젝트의 담당파트 �
 </br></br>예시)
 </br>
 ![Light01](https://user-images.githubusercontent.com/94150816/161373102-f943cac2-2d01-4b7c-859c-22863ec459bc.gif)
+
+# NPC
+아이템에 따라 상호작용하는 NPC가 구현되어있습니다.
+</br>마찬가지로 StoryBoard나 Manager의 Instance호출을 통해 필요한 곳에 사용합니다.
+</br></br>예시)
+![NPC](https://user-images.githubusercontent.com/94150816/161374588-7e7961f7-2e06-4ba9-bdd0-73b55f68eea0.png)</br>
+![NPC01](https://user-images.githubusercontent.com/94150816/161374528-670ba83c-4842-454d-8114-eeffc97715b9.gif)</br>
+![NPC02](https://user-images.githubusercontent.com/94150816/161374530-25accb81-fe7a-4e36-ab5e-53e846597725.gif)</br>
