@@ -8,3 +8,9 @@ C#과 유니티를 배우고 처음 진행했던 프로젝트의 담당파트 �
 </br>
 ![storyboard01](https://user-images.githubusercontent.com/94150816/161369829-0030ef97-72f2-4daa-b0e4-173baa69e146.png)
 ![StoryBoard03 gif](https://user-images.githubusercontent.com/94150816/161370283-e831318e-878f-4e35-9d85-719ec3d0ca56.gif)
+
+# CameraBoard
+카메라 액션에 관한 이동, 전환, 흔들림 등 여러 기능을 제공합니다.
+</br>StoryBoard에 의한 연결을 통해 사용하거나 필요한 클래스에서 Manager의 Instance를 직접 호출하여 사용합니다.
+![Camera01](https://user-images.githubusercontent.com/94150816/161372467-1ea116f6-f419-4a20-9729-e543814b8451.gif)
+![Camera02](https://user-images.githubusercontent.com/94150816/161372470-b5d5e861-06d2-4713-8d9d-153836811dcb.gif)
