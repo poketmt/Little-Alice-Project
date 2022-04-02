@@ -23,3 +23,4 @@ C#과 유니티를 배우고 처음 진행했던 프로젝트의 담당파트 �
 </br></br>사용예시)
 </br>
 ![audioboard01](https://user-images.githubusercontent.com/94150816/161372690-8c3a4479-bba0-4af4-b25d-73cb7db2e3af.png)
+<img src="https://user-images.githubusercontent.com/94150816/161372690-8c3a4479-bba0-4af4-b25d-73cb7db2e3af.png" width="100">
